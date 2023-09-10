@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1670149424 source:c:\users\alexl\desktop\pin2\pin2_w2022\07_schalter\point.cpp
+
+1670149330 source:c:\users\alexl\desktop\pin2\pin2_w2022\07_schalter\winadapt.cpp
+	<windows.h>
+	<cstring>
+	"WinAdapt.h"
+	<stdlib.h>
+	<gtk/gtk.h>
+	<pango/pango.h>
+	"WinAdapt.h"
+	<time.h>
+	<thread>
+
+1670149330 c:\users\alexl\desktop\pin2\pin2_w2022\07_schalter\winadapt.h
+	"windows.h"
+	<gdk/gdk.h>
+
+1670149330 source:c:\users\alexl\desktop\pin2\pin2_w2022\07_schalter\main.cpp
+	<iostream>
+	<iomanip>
+	"testlevel.h"
+	"Point.h"
+	"RGBColor.h"
+	"ColorBox.h"
+	"TextBox.h"
+	"Switch.h"
+	"WinAdapt.h"
+
+1670762290 c:\users\alexl\desktop\pin2\pin2_w2022\07_schalter\testlevel.h
+
+1670757687 c:\users\alexl\desktop\pin2\pin2_w2022\07_schalter\point.h
+	<ostream>
+
+1670155780 c:\users\alexl\desktop\pin2\pin2_w2022\07_schalter\rgbcolor.h
+
+1670155455 c:\users\alexl\desktop\pin2\pin2_w2022\07_schalter\colorbox.h
+	"Point.h"
+	"RGBColor.h"
+
+1670164226 source:c:\users\alexl\desktop\pin2\pin2_w2022\07_schalter\colorbox.cpp
+	"ColorBox.h"
+	"WinAdapt.h"
+
+1670164379 c:\users\alexl\desktop\pin2\pin2_w2022\07_schalter\textbox.h
+	<string>
+	"ColorBox.h"
+
+1670762280 source:c:\users\alexl\desktop\pin2\pin2_w2022\07_schalter\textbox.cpp
+	"TextBox.h"
+	"ColorBox.h"
+	"WinAdapt.h"
+
+1673643701 c:\users\alexl\desktop\pin2\pin2_w2022\07_schalter\switch.h
+	"ColorBox.h"
+	"TextBox.h"
+
+1673642859 source:c:\users\alexl\desktop\pin2\pin2_w2022\07_schalter\switch.cpp
+	"Switch.h"
+	<iostream>
+	<stdio.h>
+
